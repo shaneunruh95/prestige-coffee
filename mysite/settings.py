@@ -25,7 +25,7 @@ SECRET_KEY = '-i1-ny#r96=yq&2zx37fac4+d*#2r(x)=qsv3ye%jfd_9+w2y+'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'prestigecoffeebeans.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'www.prestigecoffeebeans.com']
 
 
 # Application definition
